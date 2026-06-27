@@ -1,0 +1,15 @@
+﻿.venv/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.env
+data/*
+!data/.gitkeep
+models/*
+!models/.gitkeep
+*.zip
+*.csv
+*.parquet
+*.pkl
+*.pt
+*.pth
