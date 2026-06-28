@@ -29,7 +29,7 @@ hackathon-prep/
 
 ### Notes
 
-* Raw data files are stored locally in `data/` and are ignored by Git.
-* Submission files are stored locally in `submissions/` and are ignored by Git.
-* Competition-specific notebooks are stored inside `competitions/<competition_name>/notebooks/`.
-* The Titanic baseline model reached a validation accuracy of `0.8156`.
+* Raw data files are stored locally in `data/` and are ignored by Git
+* Submission files are stored locally in `submissions/` and are ignored by Git
+* Competition-specific notebooks are stored inside `competitions/<competition_name>/notebooks/`
+* The Titanic baseline model reached a validation accuracy of `0.8156`
